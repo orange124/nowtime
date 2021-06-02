@@ -1,0 +1,13 @@
+@charset utf-8;
+
+h1{
+text-align: left;
+}
+
+#myClock{
+color: black;
+text-align: left; 
+font-size: 15vw;
+font-weight: bold;
+font-family: Meiryo;
+}
